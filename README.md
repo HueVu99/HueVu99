@@ -4,9 +4,7 @@
 <a href="https://twitter.com/KimHue01">
   <img align="left" alt="KimHue's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<!-- <a href="https://linkedin.com/in/imthepk">
-  <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a> -->
+
 <a href="https://github.com/HueVu99">
   <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
@@ -17,9 +15,7 @@
 <a href="https://www.facebook.com/profile.php?id=100013396034123">
   <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<!-- <a href="https://www.youtube.com/mtechviral/">
-  <img align="left" alt="Pawan's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a> -->
+
 
 <br/>
 <br/>
@@ -36,6 +32,8 @@
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <span><img src="https://img.shields.io/badge/HTML-282C34?logo=html5&logoColor=E34F26" alt="HTML logo" title="HTML" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/PUG-282C34?logo=pug&logoColor=1572B6" alt="PUG logo" title="PUG" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/CSS-282C34?logo=css3&logoColor=1572B6" alt="CSS logo" title="CSS" height="25" /></span>
 &nbsp;
