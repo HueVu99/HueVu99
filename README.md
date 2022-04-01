@@ -25,7 +25,7 @@
 <br/>
 
 
-- 🔭 I’m currently working on [Frontier](https://frontier.xyz/).
+- 🔭 I’m currently working on [HUMG](https://daotao.humg.edu.vn/#/home).
 - 🌱 I’m currently learning more about Frontend.
 - 🤔 I’m looking for help with Webpack documentation.
 - 💬 Ask me about Frontend or any tech-related stuff.
