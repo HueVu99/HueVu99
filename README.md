@@ -33,7 +33,7 @@
 <br>
 <span><img src="https://img.shields.io/badge/HTML-282C34?logo=html5&logoColor=E34F26" alt="HTML logo" title="HTML" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/PUG-282C34?logo=pug&logoColor=5d2f07" alt="PUG logo" title="PUG" height="25" /></span>
+<span><img src="https://img.shields.io/badge/PUG-282C34?logo=pug&logoColor=be783b" alt="PUG logo" title="PUG" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/CSS-282C34?logo=css3&logoColor=1572B6" alt="CSS logo" title="CSS" height="25" /></span>
 &nbsp;
