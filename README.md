@@ -48,7 +48,7 @@
 
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Gulp-282C34?logo=gulp&logoColor=282C34" alt="Gulp logo" title="Gulp" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Gulp-e41515?logo=gulp&logoColor=282C34" alt="Gulp logo" title="Gulp" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
