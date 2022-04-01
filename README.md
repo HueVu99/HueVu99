@@ -37,18 +37,18 @@
 <br>
 <span><img src="https://img.shields.io/badge/HTML-FFFFFF?logo=html5&logoColor=E34F26" alt="HTML logo" title="HTML" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/CSS3-FFFFFF?logo=css3&logoColor=1572B6" alt="CSS logo" title="CSS" height="25" /></span>
+<span><img src="https://img.shields.io/badge/CSS-FFFFFF?logo=css&logoColor=1572B6" alt="CSS logo" title="CSS" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Sass-FFFFFF?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/JavaScript-FFFFFF?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Webpack-FFFFFF?logo=react&logoColor=61DAFB" alt="Webpack logo" title="Webpack" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Webpack-FFFFFF?logo=webpack&logoColor=61DAFB" alt="Webpack logo" title="Webpack" height="25" /></span>
 &nbsp;
 
 <span><img src="https://img.shields.io/badge/Node.js-FFFFFF?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Gulp-FFFFFF?logo=express&logoColor=FFFFFF" alt="Gulp logo" title="Gulp" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Gulp-FFFFFF?logo=gulp&logoColor=FFFFFF" alt="Gulp logo" title="Gulp" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/git-FFFFFF?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
